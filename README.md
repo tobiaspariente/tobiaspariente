@@ -59,6 +59,3 @@ I have a solid background in:
 ## ⚡ Working On
 
 - I'm currently founding a non-profit organization for honeless people in Paris that make a link between charity and technology.
-
-Feel free to connect with me or reach out if you have any questions or opportunities!
-
