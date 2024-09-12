@@ -52,7 +52,7 @@ I have a solid background in:
 ## 📫 How to reach me
 
 - **Email**: tobiaspariente6@gmail.com
-- **LinkedIn**: [linkedin.com/in/tobias-pariente](https://linkedin.com/in/tobias-pariente)
+- **LinkedIn**: [linkedin.com/in/tobiaspariente](https://linkedin.com/in/tobiaspariente)
 - **GitHub**: [github.com/tobiaspariente](https://github.com/tobiaspariente)
 - **Portfolio**: [https://tobiaspariente.wixsite.com/portfolio](https://tobiaspariente.wixsite.com/portfolio)
 
