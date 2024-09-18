@@ -41,10 +41,35 @@ I have a solid background in:
 
 - **Junior Data Scientist** - Tomorhow (Summer 2020)
 
-## 🌱 I’m currently learning
+## 📊 What I'm Learning at Flatiron School Bootcamp
 
-- Advanced Machine Learning Algorithms
-- Quantum Computing Applications in Data Science
+### PHASE 1: Data Analysis & Engineering
+- **Tools & Techniques**: 
+  - Python libraries (Pandas, NumPy)
+  - Data visualization with Matplotlib/Seaborn
+  - Business intelligence tools (Tableau)
+  - SQL for querying databases
+  - Web scraping and APIs for data extraction
+
+### PHASE 2: Scientific Computing & Quantitative Methods
+- **Key Concepts**: 
+  - Probability theory, combinatorics, and hypothesis testing
+  - Linear regression and A/B testing
+  - SQL for optimized data queries
+
+### PHASE 3: Machine Learning Fundamentals
+- **Topics Covered**: 
+  - Multiple linear regression, logistic regression
+  - Classification models (Decision Trees, K-Nearest Neighbors)
+  - Hyperparameter tuning and overfitting prevention
+
+### PHASE 4: Advanced Machine Learning
+- **Key Topics**:
+  - Dimensionality reduction, clustering, time series analysis
+  - Neural networks and deep learning
+  - Natural Language Processing (NLP) and recommendation systems
+
+### PHASE 5: Data Science Project
 
 ## 📫 How to reach me
 
