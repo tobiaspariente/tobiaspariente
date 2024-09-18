@@ -19,13 +19,13 @@ I have a solid background in:
 
 ## 📚 My Education
 
-- **Master with gap-year (2024-2027)** - Sciences Po Paris
+- **Master degree (2024-2027)** - Sciences Po, Paris
 
-- **Coding Bootcamp in Data Science (2024)** - Flatiron School, New York
+- **Coding Bootcamp (2024)** - Flatiron School, New York
 
-- **Bachelor of Sciences (2021-2024)** - City University of London
+- **Bachelor degree (2021-2024)** - City University of London
 
-- **Exchange Program (2022)** - The Chinese University of Hong Kong
+- **Exchange semester (2022)** - The Chinese University of Hong Kong
 
 ## 💼 My Experience
 
