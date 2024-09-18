@@ -19,7 +19,7 @@ I have a solid background in:
 
 ## 📚 My Education
 
-- **Master degree (2024-2027)** - Sciences Po, Paris
+- **Master degree (2024-2026)** - Sciences Po, Paris
 
 - **Coding Bootcamp (2024)** - Flatiron School, New York
 
@@ -80,4 +80,4 @@ I have a solid background in:
 
 ## ⚡ Working On
 
-- I'm currently founding a non-profit organization for honeless people in Paris that make a link between charity and technology.
+- I'm currently building a non-profit organization for homeless people in Paris that make a link between charity and technology, in partnership with many foundations such as Rothschild Foundation. Kickstart budget raised from French associations: €10,000
