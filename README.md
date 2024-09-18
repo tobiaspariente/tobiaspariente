@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I’m a Data Scientist and Software Developer with a passion for leveraging advanced analytical techniques to solve complex problems. My academic journey spans top institutions like City University of London and Flatiron School, and I am currently pursuing a Master of Sciences in Law and Technology at Sciences Po Paris. My background includes extensive experience in data analysis, software development, and research.
+I’m a Data Scientist and Software Developer with a passion for leveraging advanced analytical techniques to solve complex problems. My academic journey spans top institutions like City University of London and Flatiron School, and I am currently pursuing a Master of Sciences at Sciences Po Paris. 
 
 I have a solid background in:
 
@@ -29,20 +29,17 @@ I have a solid background in:
 
 ## 💼 My Experience
 
-- **Quantitative Research Assistant** - John Hopkins University (May 2024 – Aug 2024)
-  - Conducted in-depth research on energy commodities, developing advanced mathematical models to forecast prices for the next decades.
+- **Quantitative Research Assistant** - John Hopkins University (Summer 2024)
 
-- **Data Engineer Research Assistant** - Bocconi University (Nov 2023 – May 2024)
-  - Built and maintained data simulations for industry research reports and automated research processes.
+- **Data Engineer Research Assistant** - Bocconi University (2023-2024)
 
-- **Data Scientist Intern** - TP ICAP (June 2023 – Sept 2023)
-  - Developed economic models and improved portfolio performance through advanced data analysis.
+- **Data Scientist/Analyst** - TP ICAP (Summer 2023)
 
-- **Founder** - Watchmysell.com (Jan 2022 – Sept 2023)
-  - Led the development of a price comparison algorithm and established partnerships with European watch resellers.
+- **Quantitative Risk Analyst** - Veolia (Summer 2022)
 
-- **Junior Data Scientist** - Tomorhow (Jul 2020 – Sept 2020)
-  - Enhanced HR models by identifying and correcting biases in customer databases.
+- **Founder** - Watchmysell.com (2022-2023)
+
+- **Junior Data Scientist** - Tomorhow (Summer 2020)
 
 ## 🌱 I’m currently learning
 
