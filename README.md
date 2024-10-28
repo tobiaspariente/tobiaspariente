@@ -1,6 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Lax)](https://git.io/typing-svg)
-
-# Hey! I'm Tobias Pariente 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Tobias)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
