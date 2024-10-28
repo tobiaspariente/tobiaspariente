@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I’m a Data Scientist and Software Developer with a passion for leveraging advanced analytical techniques to solve complex problems. My academic journey spans top institutions like City University of London and Flatiron School, and I am currently pursuing a Master of Sciences at Sciences Po Paris. 
+I’m a Data Scientist and Software Developer with a passion for leveraging advanced analytical techniques to solve complex problems.
 
 I have a solid background in:
 
@@ -12,39 +12,35 @@ I have a solid background in:
 
 ## 🧠 My Tech Stack
 
-- **Languages**: Python, R, SQL, Java, C++, JavaScript, MATLAB
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Flask, React
-- **Tools**: VS Code, Git/GitHub, Jupyter Notebook, Tableau, Power BI, Excel
-- **Technologies**: Machine Learning, Big Data, Quantitative Analysis, Data Engineering
+- **Languages**: Python | R | SQL | NoSQL | Julia | VBA | Java | C/C++ | JavaScript | MATLAB
+- **Libraries & Frameworks**: Pandas | Matplotlib | NumPy | SciPy | Seaborn | Scikit-Learn | Keras | TensorFlow | PyTorch | React | JAX
+- **Tools**: VS Code | Git/GitHub | Power BI | Tableau | Jupyter Notebook | Unix Shell
 
 ## 📚 My Education
 
-- **Master degree (2024-2026)** - Sciences Po, Paris
+- **Master's degree (2024-2026)** - Sciences Po, Paris
 
 - **Coding Bootcamp (2024)** - Flatiron School, New York
 
-- **Bachelor degree (2021-2024)** - City University of London
+- **Bachelor's degree (2021-2024)** - City University of London
 
 - **Exchange semester (2022)** - The Chinese University of Hong Kong
 
 ## 💼 My Experience
 
-- **Quantitative Research Assistant** - John Hopkins University (Summer 2024)
+- **Research Scientist** - John Hopkins University (Summer 2024)
 
-- **Data Engineer Research Assistant** - Bocconi University (2023-2024)
+- **Research Scientist** - Bocconi University (2023-2024)
 
-- **Data Scientist/Analyst** - TP ICAP (Summer 2023)
+- **Summer Intern** - TP ICAP (Summer 2023)
 
-- **Quantitative Risk Analyst** - Veolia (Summer 2022)
+- **Summer Intern** - Veolia (Summer 2022)
 
 - **Founder** - Watchmysell.com (2022-2023)
 
-- **Junior Data Scientist** - Tomorhow (Summer 2020)
-
-## 📊 What I'm Learning at Flatiron School Bootcamp
+## 📊 What I'm Learning at Flatiron School Coding Bootcamp
 
 ### PHASE 1: Data Analysis & Engineering
-- **Tools & Techniques**: 
   - Python libraries (Pandas, NumPy)
   - Data visualization with Matplotlib/Seaborn
   - Business intelligence tools (Tableau)
@@ -52,24 +48,23 @@ I have a solid background in:
   - Web scraping and APIs for data extraction
 
 ### PHASE 2: Scientific Computing & Quantitative Methods
-- **Key Concepts**: 
   - Probability theory, combinatorics, and hypothesis testing
   - Linear regression and A/B testing
-  - SQL for optimized data queries
+  - Inferential statistics
 
 ### PHASE 3: Machine Learning Fundamentals
-- **Topics Covered**: 
-  - Multiple linear regression, logistic regression
+  - Multiple linear regression and logistic regression
   - Classification models (Decision Trees, K-Nearest Neighbors)
   - Hyperparameter tuning and overfitting prevention
+  - Unsupervised Machine Learning
 
 ### PHASE 4: Advanced Machine Learning
-- **Key Topics**:
   - Dimensionality reduction, clustering, time series analysis
   - Neural networks and deep learning
   - Natural Language Processing (NLP) and recommendation systems
+  - Artificial Intelligence and LLM
 
-### PHASE 5: Data Science Project
+### PHASE 5: Real-Life Data Science Project
 
 ## 📫 How to reach me
 
@@ -80,4 +75,4 @@ I have a solid background in:
 
 ## ⚡ Working On
 
-- I'm currently building a non-profit organization for homeless people in Paris that make a link between charity and technology, in partnership with many foundations such as Rothschild Foundation. Kickstart budget raised from French associations: €10,000
+- I'm currently building a non-profit software for 50,000 homeless people in France that make a link between tech & charity -> In partnership with several charities such as The Rothschild Foundation, we are currently raising €10,000 as a kickstart budget
