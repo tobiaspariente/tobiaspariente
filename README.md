@@ -1,19 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Tobias)](https://git.io/typing-svg)
 
-## 🌟 Coding Projects
-- **[Musician Matchmaker Dating Algorithm - OOP Project](https://github.com/tobiaspariente/Musician-Matchmaking-OOP)**: A Python tool that matches beginner guitarists and pianists with similar musical celebrities. Using a custom artist database, it ranks profiles based on user input, employing functions for input parsing, similarity scoring, and random selection. Built with native Python libraries and includes unit tests for core functions.
-- **[Aviation Risk Profiler - Data Analysis Project](https://github.com/tobiaspariente/Aircraft-Safety-USdata)**: A data-driven tool for identifying low-risk aircraft types for commercial investment. Using a dataset from the NTSB, this project performs data cleaning, imputation, and visualization to offer actionable insights on aircraft safety. Key features include exploratory data analysis, trend aggregation, and custom visualizations, with recommendations for non-technical stakeholders.
-- **[Box Office Analysis Project](https://github.com/tobiaspariente/BoxOffice-US)**: A Python analysis designed to guide film production decisions for a new studio. This project utilizes a dataset from IMDB and box office revenue data to explore performance trends across different genres and durations. Key features include data cleaning, exploratory data analysis, and visualizations that provide actionable recommendations for targeting successful film strategies both domestically and internationally.
-- **[Machine Learning models for Chicago Car Crashes](https://github.com/tobiaspariente/MLmodel-Chicago-Car-Crashes/tree/main)**: This project leverages machine learning to predict the severity of car crashes in Chicago, utilizing factors such as weather conditions, road design, driver behavior, and time of day to enhance city planning and implement proactive safety measures.
-- **[Startup Project: Back-End Algorithm for Price Comparison in Watch Industry](https://tobiaspariente.wixsite.com/portfolio/post/startup-project-back-end-algorithm-for-price-comparison-in-watch-industry-1)**
-- **[Final Project: An Econometric Research on Bank of America stock (NYSE: BAC)](https://tobiaspariente.wixsite.com/portfolio/post/final-project-an-econometric-research-on-bank-of-america-stock-nyse-bac)**
-- 
-- **[Individual Project: Exploring Hard-Code Integration with Low-Code Tools](https://tobiaspariente.wixsite.com/portfolio/post/coding-bootcamp-individual-project-a-blog-for-math-data-enthusiast)**
-- **[Final Project: Predicting Housing Prices Using R](https://tobiaspariente.wixsite.com/portfolio/post/harvardx-r-final-project-xxx)**
-- **[Research Project: Data Extraction for Academic Research with Python](https://tobiaspariente.wixsite.com/portfolio/post/research-assistant-individual-project-extract-data-from-large-datasets)**
-- **[Group Project: Enhancing Creativity with LLM APIs](https://tobiaspariente.wixsite.com/portfolio/post/enhancing-creativity-with-ai-testing-chatgpt-s-generative-capabilities)**
-- **[Research Project: The Role of AI in Enhancing Cybersecurity for Tech Startups](https://tobiaspariente.wixsite.com/portfolio/post/ai-powered-cybersecurity-for-startups-a-comparative-study)**
-
 ## 🚀 About Me
 
 I’m a Data Scientist and Software Developer with a passion for leveraging advanced analytical techniques to solve complex problems.
@@ -23,6 +9,19 @@ I have a solid background in:
 - **Data Science**: Expertise in data analysis, machine learning, and quantitative research.
 - **Software Development**: Proficient in Python, R, SQL, JavaScript, and more.
 - **Project Management**: Proven experience in leading teams, developing tech solutions, and managing projects from inception to deployment.
+
+## 🌟 Coding Projects
+- **[Musician Matchmaker Dating Algorithm - OOP Project](https://github.com/tobiaspariente/Musician-Matchmaking-OOP)**
+- **[Aviation Risk Profiler - Data Analysis Project](https://github.com/tobiaspariente/Aircraft-Safety-USdata)**
+- **[Box Office Analysis Project](https://github.com/tobiaspariente/BoxOffice-US)**
+- **[Machine Learning models for Chicago Car Crashes](https://github.com/tobiaspariente/MLmodel-Chicago-Car-Crashes/tree/main)**
+- **[Startup Project: Back-End Algorithm for Price Comparison in Watch Industry](https://tobiaspariente.wixsite.com/portfolio/post/startup-project-back-end-algorithm-for-price-comparison-in-watch-industry-1)**
+- **[Final Project: An Econometric Research on Bank of America stock (NYSE: BAC)](https://tobiaspariente.wixsite.com/portfolio/post/final-project-an-econometric-research-on-bank-of-america-stock-nyse-bac)**
+- **[Individual Project: Exploring Hard-Code Integration with Low-Code Tools](https://tobiaspariente.wixsite.com/portfolio/post/coding-bootcamp-individual-project-a-blog-for-math-data-enthusiast)**
+- **[Final Project: Predicting Housing Prices Using R](https://tobiaspariente.wixsite.com/portfolio/post/harvardx-r-final-project-xxx)**
+- **[Research Project: Data Extraction for Academic Research with Python](https://tobiaspariente.wixsite.com/portfolio/post/research-assistant-individual-project-extract-data-from-large-datasets)**
+- **[Group Project: Enhancing Creativity with LLM APIs](https://tobiaspariente.wixsite.com/portfolio/post/enhancing-creativity-with-ai-testing-chatgpt-s-generative-capabilities)**
+- **[Research Project: The Role of AI in Enhancing Cybersecurity for Tech Startups](https://tobiaspariente.wixsite.com/portfolio/post/ai-powered-cybersecurity-for-startups-a-comparative-study)**
 
 ## 🧠 My Tech Stack
 
