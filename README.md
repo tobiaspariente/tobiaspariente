@@ -8,7 +8,7 @@ I have a solid background in:
 
 - **Data Science**: Expertise in data analysis, machine learning, and quantitative research.
 - **Software Development**: Proficient in Python, R, SQL, JavaScript, and more.
-- **Tech Entrepreurnship**: Proven experience in leading teams, developing tech solutions, and managing projects from inception to deployment.
+- **Tech Entrepreneurship**: Proven experience in leading teams, developing tech solutions, and managing projects from inception to deployment.
 
 ## 🌟 Coding Projects
 - **[Musician Matchmaker Dating Algorithm - OOP Project](https://github.com/tobiaspariente/Musician-Matchmaking-OOP)**
