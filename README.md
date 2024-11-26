@@ -31,8 +31,6 @@ I have a solid background in:
 
 ## 📚 My Education
 
-- **Master's degree (2024-2026)** - Sciences Po, Paris
-
 - **Coding Bootcamp (2024)** - Flatiron School, New York
 
 - **Bachelor's degree (2021-2024)** - City University of London
