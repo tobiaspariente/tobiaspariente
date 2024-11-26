@@ -35,8 +35,6 @@ I have a solid background in:
 
 - **Bachelor's degree (2021-2024)** - City University of London
 
-- **Exchange semester (2022)** - The Chinese University of Hong Kong
-
 ## 💼 My Experience
 
 - **Research Scientist** - John Hopkins University (Summer 24')
