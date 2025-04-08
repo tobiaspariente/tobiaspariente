@@ -2,19 +2,14 @@
 
 ## 🚀 About Me
 
-I’m a Data Scientist and Software Developer with a passion for leveraging advanced analytical techniques to solve complex problems.
-
-I have a solid background in:
-
-- **Data Science**: Expertise in data analysis, machine learning, and quantitative research.
-- **Software Development**: Proficient in Python, R, SQL, JavaScript, and more.
-- **Tech Entrepreneurship**: Proven experience in leading teams, developing tech solutions, and managing projects from inception to deployment.
+I’m a Data Scientist and Software Developer with a passion for leveraging IOT and advanced analytical techniques to solve complex problems.
 
 ## 🌟 Coding Projects
 - **[Musician Matchmaker Dating Algorithm - OOP Project](https://github.com/tobiaspariente/Musician-Matchmaking-OOP)**
 - **[Aviation Risk Profiler - Data Analysis Project](https://github.com/tobiaspariente/Aircraft-Safety-USdata)**
 - **[Box Office Analysis Project](https://github.com/tobiaspariente/BoxOffice-US)**
 - **[Machine Learning models for Chicago Car Crashes](https://github.com/tobiaspariente/MLmodel-Chicago-Car-Crashes/tree/main)**
+- **[Startup Project: "Armless Interface Mouse" using Electromyography](https://tobiaspariente.wixsite.com/portfolio/post/startup-project-armless-interface-mouse-using-electromyography)**
 - **[Startup Project: Back-End Algorithm for Price Comparison in Watch Industry](https://tobiaspariente.wixsite.com/portfolio/post/startup-project-back-end-algorithm-for-price-comparison-in-watch-industry-1)**
 - **[Final Project: An Econometric Research on Bank of America stock (NYSE: BAC)](https://tobiaspariente.wixsite.com/portfolio/post/final-project-an-econometric-research-on-bank-of-america-stock-nyse-bac)**
 - **[Individual Project: Exploring Hard-Code Integration with Low-Code Tools](https://tobiaspariente.wixsite.com/portfolio/post/coding-bootcamp-individual-project-a-blog-for-math-data-enthusiast)**
@@ -25,7 +20,8 @@ I have a solid background in:
 
 ## ⚡ Working On
 
-- I'm currently building a non-profit software for 50,000 homeless people in France that make a link between tech & charity -> In partnership with several charities such as The Rothschild Foundation, we are currently raising €10,000 as a kickstart budget :)
+- I'm currently building a non-profit software for 50,000 homeless people in France that make a link between tech & charity
+- In partnership with several charities such as The Rothschild Foundation, we have just raised €10,000 as a kickstart budget :)
 
 ## 📫 How to reach me
 
